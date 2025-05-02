@@ -1,4 +1,4 @@
-# DevTinder
+# TechAlliance
 
     - Fronend - Created Vite + React project
     - Removed unnecessary code
